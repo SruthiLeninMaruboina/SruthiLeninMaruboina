@@ -2,7 +2,7 @@
 
 I'm a **Machine Learning and Generative AI Engineer** with hands-on experience in data analysis, machine learning, NLP, and LLM-powered systems. I focus on building end-to-end solutions, from data preprocessing to model deployment, delivering explainable, scalable, and impactful results for real-world business challenges.
 
-Currently pursuing an **MBA in Analytics and Data Science** at **Manipal University** and holding a **B.Tech in Computer Science** from **BIET**. I also hold multiple certifications in **Google Data Analytics**, **IBM Data Analyst**, and **Meta Marketing Analytics**.
+Completed an **MBA in Analytics and Data Science** from **Manipal University** and holding a **B.Tech in Computer Science** from **BIET**. I also hold multiple certifications in **Google Data Analytics**, **IBM Data Analyst**, and **Meta Marketing Analytics**.
 
 ---
 
@@ -74,4 +74,4 @@ Currently pursuing an **MBA in Analytics and Data Science** at **Manipal Univers
 ---
 
 Feel free to connect with me!  
-[LinkedIn](#) | [GitHub](#) | [Portfolio](#)
+[LinkedIn](http://www.linkedin.com/in/sruthimaruboina) | [GitHub](https://github.com/SruthiLeninMaruboina) | [Portfolio](https://sruthileninmaruboi1.wixsite.com/portfolio)
